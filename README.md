@@ -45,7 +45,7 @@ If you have issues with keymaps, consider running [FindKeyConflicts](https://git
 ### OS X and Linux
 The super keys for Linux and OS X are the Windows and command key respectively.
 
-`super+alt+n`: General keymap to create new files.
+`ctrl+alt+n`: General keymap to create new files.
 
 `shift+super+alt+n`: In addition to creating the folders specified, new folders will also contain an `__init__.py` file.
 
